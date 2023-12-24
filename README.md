@@ -25,6 +25,7 @@ print("Number of rows:",len(df.axes[0]))
 print("Number of columns:",len(df.axes[1]))
 ```
 ## OUTPUT:
-![1](/Screenshot%202023-12-24%20131558.png)
+![Screenshot 2023-12-24 131558](https://github.com/PREM3112/Read-from-CSV/assets/145449383/9685a7fa-8d6a-48c0-ba96-ef0b1db038a1)
+
 ## RESULT:
 thus the output got successfully.
