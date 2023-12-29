@@ -18,7 +18,7 @@ Print the output
 # Developed by: PREM.R
 # Register Number: 23002486
 import pandas as pd
-df = pd.read_csv('pandascsv.csv')
+df = pd.read_csv('data.csv')
 print(df.head(10))
 print(df.tail())
 print("Number of rows:",len(df.axes[0]))
